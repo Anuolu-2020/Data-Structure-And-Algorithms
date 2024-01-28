@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "bubble-sort": "ts-node src/Algorithms/bubble-sort.ts",
+    "LinkedList": "ts-node src/Data-Structures/LinkedList.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
