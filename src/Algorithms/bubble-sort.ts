@@ -1,6 +1,6 @@
 function sort(numbers: number[]) {
   for (let i = 0; i < numbers.length; i++) {
-    for (let j = 0; j < numbers.length; j++) {
+    for (let j = 0; j < numbers.length - 1; j++) {
       const left = numbers[j];
       const right = numbers[j + 1];
 
